@@ -1,2 +1,2 @@
-# Knowledge organization project 
- website-related files
+# Knowledge Organization Project 
+RDF Graph for Knowledge Organization Project 
